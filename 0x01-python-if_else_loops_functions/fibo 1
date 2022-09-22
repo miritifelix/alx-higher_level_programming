@@ -1,0 +1,7 @@
+import fibo
+fibo.fib(1000)
+fibo.fib(38800)
+
+def my_function():
+    print("In my function")
+print(my_function)
